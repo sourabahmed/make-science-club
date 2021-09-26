@@ -5,11 +5,17 @@ import './Scientists.css'
 
 const Scientists = () => {
     const[scientists, setScientists] = useState([])
+    const [cart, setCart] = useState([])
     useEffect(() => {
         fetch("./scientists.json")
         .then(res => res.json())
         .then(data => setScientists(data))
       },[])
+
+      const handleAddToCard = (scientist) =>{
+        const newCart = [...cart, scientist];
+        setCart(newCart);
+      }
     return (
         <div className="row m-5">
           <div className="col-9">
@@ -18,12 +24,13 @@ const Scientists = () => {
                 scientists.map(scientist => <Scientist
                 key={scientist.id}
                 scientist={scientist}
+                handleAddToCard={handleAddToCard}
                 ></Scientist>)
               }
               </div>
           </div>
           <div className="col-3 border-start">
-              <Cart></Cart>
+              <Cart cart={cart}></Cart>
           </div>
         </div>
     );

@@ -4,7 +4,7 @@
       "name": "Zeng Heng",
       "country": "Chinese",
       "famous": "Astronomer",
-      "salary": "$1,404.78",
+      "salary": "1404.78",
       "picture": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_320,f_auto/A-rexfeatures_1681627a_icon_ztjtyv.jpg",
       "age": 78
     },
@@ -13,7 +13,7 @@
       "name": "Archimedes",
       "country": "Ancient Greek",
       "famous": "Mathemetician",
-      "salary": "$2,450.58",
+      "salary": "2450.58",
       "picture": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_320,f_auto/A-Getty-72308878_icon_bi6fbh.jpg",
       "age": 87
     },
@@ -22,7 +22,7 @@
       "name": "Ibn al-Haytham",
       "country": "Arabic",
       "famous": "Physicist",
-      "salary": "$2,527.18",
+      "salary": "2527.18",
       "picture": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_320,f_auto/DK_Alhazen_icon_ujcosl.jpg",
       "age": 79
     },
@@ -31,7 +31,7 @@
       "name": "Leonardo-da-vinci",
       "country": "Italy",
       "famous": "Artist",
-      "salary": "$1,088.45",
+      "salary": "1088.45",
       "picture": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_320,f_auto/A-Getty-148277064_icon_hbgtxj.jpg",
       "age": 79
     },
@@ -40,7 +40,7 @@
       "name": "Nicolaus-copernicus",
       "country": "Poland",
       "famous": "Mathemetician",
-      "salary": "$3,299.06",
+      "salary": "3299.06",
       "picture": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_320,f_auto/A-rexfeatures_2565728a_icon_qoflxp.jpg",
       "age": 90
     },
@@ -49,7 +49,7 @@
       "name": "Galilieo Galile",
       "country": "Italy",
       "famous": "Astronomer",
-      "salary": "$1,560.12",
+      "salary": "1560.12",
       "picture": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_320,f_auto/A-rexfeatures_2544132a_icon_yutde6.jpg",
       "age": 57
     },
@@ -58,7 +58,7 @@
       "name": "Robert Boyle",
       "country": "UK",
       "famous": "Chemist",
-      "salary": "$1,330.29",
+      "salary": "1330.29",
       "picture": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_320,f_auto/A-Alamy-EBR494_Boyle_icon_odu1hu.jpg",
       "age": 55
     },
@@ -67,7 +67,7 @@
       "name": "Issac Newton",
       "country": "UK",
       "famous": "Mathemetician",
-      "salary": "$1,590.94",
+      "salary": "1590.94",
       "picture": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_320,f_auto/A-Getty-107875800_icon_isvva7.jpg",
       "age": 78
     },
@@ -76,7 +76,7 @@
       "name": "Daniel Fahrenheit",
       "country": "German",
       "famous": "Physicist",
-      "salary": "$1,343.74",
+      "salary": "1343.74",
       "picture": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_320,f_auto/A-Carolina-Pontes-Daniel-Fahrenheit_icon_rvoifl.jpg",
       "age": 50
     },
@@ -85,7 +85,7 @@
       "name": "Anders Celsius",
       "country": "Sweden",
       "famous": "Astronomer",
-      "salary": "$1,885.39",
+      "salary": "1885.39",
       "picture": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_320,f_auto/A-SPL-C0093287_icon_dp8oks.jpg",
       "age": 60
     },
@@ -93,8 +93,8 @@
       "id": "614f55ca566887dd99bed364",
       "name": "Benjamin Franklin",
       "country": "US",
-      "famous": "Inventor and politician",
-      "salary": "$3,725.13",
+      "famous": "Inventor",
+      "salary": "3725.13",
       "picture": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_320,f_auto/Loc-3a52954u_icon_cdhf0k.jpg",
       "age": 61
     },
@@ -103,7 +103,7 @@
       "name": "Carl Linnaeus",
       "country": "Sweden",
       "famous": "Botanist",
-      "salary": "$1,474.77",
+      "salary": "1474.77",
       "picture": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_320,f_auto/Carl_linnaeus_icon_n5hfdw.jpg",
       "age": 85
     },
@@ -112,7 +112,7 @@
       "name": "Antoine Lavosier",
       "country": "France",
       "famous": "Chemist",
-      "salary": "$1,072.01",
+      "salary": "1072.01",
       "picture": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_320,f_auto/A-rexfeatures_2551214a_icon_eqqw9r.jpg",
       "age": 52
     },
@@ -121,7 +121,7 @@
       "name": "Ada Lovelace",
       "country": "UK",
       "famous": "Mathemetician",
-      "salary": "$1,176.25",
+      "salary": "1176.25",
       "picture": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_320,f_auto/A-rexfeatures_3865297a_icon_dxbuhe.jpg",
       "age": 51
     },
@@ -130,7 +130,7 @@
       "name": "Charles Darwin",
       "country": "UK",
       "famous": "Naturalist",
-      "salary": "$1,729.61",
+      "salary": "1729.61",
       "picture": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_320,f_auto/A-Getty-107875855_icon_zmv91w.jpg",
       "age": 59
     }
